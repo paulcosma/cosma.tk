@@ -61,7 +61,7 @@ Support: http://trendytheme.net/support
         /* === CountDown === */
         if ($('.countdown').length > 0) {
             $(".countdown").countdown({
-                date: "31 december 2017 12:00:00",
+                date: "31 december 2018 12:00:00",
                 format: "on"
             });
         }
